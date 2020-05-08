@@ -7,7 +7,7 @@ Login details
 
 Password: Dammy_1234
 
-Using Visual studio, the following packages need to be installed:
+Using Visual studio code, install the following packages:
 * dotnet tool install --global dotnet-ef
 * dotnet tool install --global dotnet-aspnet-codegenerator
 * dotnet add package Microsoft.EntityFrameworkCore.SQLite
