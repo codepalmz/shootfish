@@ -7,3 +7,14 @@ Login details
 
 Password: Dammy_1234
 
+Using Visual studio, the following packages need to be installed:
+* dotnet tool install --global dotnet-ef
+* dotnet tool install --global dotnet-aspnet-codegenerator
+* dotnet add package Microsoft.EntityFrameworkCore.SQLite
+* dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+* dotnet add package Microsoft.EntityFrameworkCore.Design
+* dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+Also, also download the package below for the mail features
+* dotnet add package MailKit --version 2.6.0
+
